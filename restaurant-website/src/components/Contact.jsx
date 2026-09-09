@@ -19,7 +19,7 @@ function Contact() {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    const whatsappNumber = "919876543210";
+    const whatsappNumber = "919368979993"; // Replace with your restaurant's WhatsApp number
 
     const whatsappMessage = `Hello TastyBite,
 
@@ -85,7 +85,7 @@ ${formData.message}`;
               <div>
                 <h3>Call Us</h3>
                 <p>
-                  +91 98765 43210
+                  +91 9368979993
                 </p>
               </div>
             </div>
@@ -122,7 +122,7 @@ ${formData.message}`;
 
 
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/919368979993"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-whatsapp"
