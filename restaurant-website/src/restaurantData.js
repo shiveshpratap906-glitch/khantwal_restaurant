@@ -5,9 +5,9 @@
 export const restaurantInfo = {
     name: "TastyBite",
 
-    whatsapp: "919876543210",
+    whatsapp: "919368979993",
 
-    phone: "+91 98765 43210",
+    phone: "+91 9368979993",
 
     email: "hello@tastybite.com",
 
