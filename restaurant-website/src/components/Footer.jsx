@@ -51,7 +51,7 @@ function Footer() {
                     <h3>Contact</h3>
 
                     <p>📍 123 Main Street, Your City</p>
-                    <p>📞 +91 98765 43210</p>
+                    <p>📞 +91 9368979993</p>
                     <p>✉️ hello@tastybite.com</p>
 
                 </div>
