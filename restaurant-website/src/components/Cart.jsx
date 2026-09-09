@@ -15,7 +15,7 @@ function Cart({ cartItems, onClose, onIncrease, onDecrease, onRemove }) {
 
         message += `\nTotal: ₹${total}`;
 
-        const whatsappNumber = "919876543210";
+        const whatsappNumber = "919368979993";
 
         const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
             message
