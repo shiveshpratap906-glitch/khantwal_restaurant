@@ -19,11 +19,7 @@ function Navbar({ cartCount, onCartClick }) {
                     className="logo"
                     onClick={closeMenu}
                 >
-                    <img
-                        src="/images/restaurant/logo.png"
-                        alt="TastyBite Logo"
-                        className="navbar-logo-image"
-                    /> TastyBite
+                    <span>🍽️</span> TastyBite
                 </a>
 
 

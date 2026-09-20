@@ -2,17 +2,11 @@ function FoodCard({ food, onAddToCart }) {
     return (
         <article className="food-card">
             <div className="food-image-container">
-                {food.image ? (
-                    <img
-                        src={food.image}
-                        alt={food.name}
-                        className="food-image"
-                    />
-                ) : (
-                    <div className="food-image-placeholder">
-                        <span>🍽️</span>
-                    </div>
-                )}
+                <img
+                    src={food.image}
+                    alt={food.name}
+                    className="food-image"
+                />
 
                 {food.bestseller && (
                     <span className="bestseller-badge">

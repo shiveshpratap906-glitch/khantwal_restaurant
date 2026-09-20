@@ -71,7 +71,7 @@ ${formData.message}`;
               <div>
                 <h3>Visit Us</h3>
                 <p>
-                  Chhatri choraha Kashipur
+                  123 Main Street, Your City
                 </p>
               </div>
             </div>

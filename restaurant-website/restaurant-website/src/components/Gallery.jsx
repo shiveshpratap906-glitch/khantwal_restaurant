@@ -4,37 +4,37 @@ const galleryImages = [
     {
         id: 1,
         image:
-            "/images/restaurant/restaurant.jpg",
+            "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=85",
         title: "Our Restaurant",
     },
     {
         id: 2,
         image:
-            "/images/restaurant/food.jpg",
+            "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85",
         title: "Delicious Food",
     },
     {
         id: 3,
         image:
-            "/images/restaurant/crowd.jpg",
+            "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=85",
         title: "Restaurant Ambience",
     },
     {
         id: 4,
         image:
-            "/images/restaurant/dinning-table.jpg",
+            "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1200&q=85",
         title: "Dining Experience",
     },
     {
         id: 5,
         image:
-            "/images/restaurant/fresh.png",
+            "https://images.unsplash.com/photo-1541544741938-0af808871cc0?auto=format&fit=crop&w=1200&q=85",
         title: "Freshly Prepared",
     },
     {
         id: 6,
         image:
-            "/images/restaurant/good-food.jpg",
+            "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=85",
         title: "Good Food",
     },
 ];

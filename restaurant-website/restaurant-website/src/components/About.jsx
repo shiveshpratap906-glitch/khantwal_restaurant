@@ -8,7 +8,7 @@ function About() {
 
                 <div className="about-image-wrapper">
                     <img
-                        src="/images/restaurant/interior.jpg"
+                        src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=85"
                         alt="Restaurant interior"
                         className="about-image"
                     />

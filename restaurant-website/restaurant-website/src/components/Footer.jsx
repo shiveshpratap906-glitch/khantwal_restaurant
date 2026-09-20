@@ -9,11 +9,7 @@ function Footer() {
                 <div className="footer-brand">
 
                     <a href="#home" className="footer-logo">
-                        <img
-                            src="/images/restaurant/logo.png"
-                            alt="TastyBite Logo"
-                            className="footer-logo-image"
-                        /> TastyBite
+                        🍽️ TastyBite
                     </a>
 
                     <p>
@@ -54,7 +50,7 @@ function Footer() {
 
                     <h3>Contact</h3>
 
-                    <p>📍 Chhatri choraha Kashipur</p>
+                    <p>📍 123 Main Street, Your City</p>
                     <p>📞 +91 9368979993</p>
                     <p>✉️ hello@tastybite.com</p>
 
@@ -89,7 +85,13 @@ function Footer() {
                     © 2026 TastyBite. All rights reserved.
                 </p>
 
+                <div className="footer-socials">
+                    <a href="#" aria-label="Instagram">Instagram</a>
+                    <a href="#" aria-label="Facebook">Facebook</a>
+                </div>
+
             </div>
+
         </footer>
     );
 }

@@ -1,7 +1,6 @@
 import { useState } from "react";
 import FoodCard from "./FoodCard";
 import { foodItems, categories } from "../restaurantData";
-import MenuGallery from "./MenuGallery";
 function Menu({ onAddToCart }) {
     const [activeCategory, setActiveCategory] = useState("All");
 
@@ -27,7 +26,7 @@ function Menu({ onAddToCart }) {
                     and unforgettable flavors.
                 </p>
             </div>
-            <MenuGallery />
+
             <div className="category-buttons">
                 {categories.map((category) => (
                     <button
